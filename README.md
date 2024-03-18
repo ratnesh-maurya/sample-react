@@ -9,7 +9,7 @@ We provide a sample app using React that you can deploy on App Platform. These s
 
 ### Requirements
 
-* You need a Initializ account. If you don't already have one, you can sign up at [signup](https://www.initializ.io/)
+* You need a Initializ account. If you don't already have one, you can sign up at [signup](https://console.initializ.ai/register/)
 
 ##  Create an App
 
